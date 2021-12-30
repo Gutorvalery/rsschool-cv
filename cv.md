@@ -31,4 +31,19 @@ describe("Multiply", () => {
 
 ---
 
+### Work experience:
 
+creating simple projects using *html css*
+
+---
+
+### Education and courses:
+
+1. html css course on yotube channel
+2. higher economic education
+
+---
+
+### Language:
+
+English level - A
