@@ -55,7 +55,7 @@ main {
 }
 
 .contacts a:hover {
-  color: rgb(85, 58, 58);
+  color: rgb(79, 156, 114);
   font-size: 10px;
 }
 
@@ -87,7 +87,7 @@ nav li {
     margin: 0px;
     width: 130px;
     padding: 0px;
-    background-color: rgb(172, 209, 177);
+    background-color: rgb(122, 184, 130);
     margin: 0px;
     padding-top: 0px;
 }
